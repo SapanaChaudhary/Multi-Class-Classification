@@ -1,6 +1,6 @@
 ### Multiclass classification on an unknown data set 
 
-With Sneha Konnur (MS(Research), IIT Madras), Ravina Gelda ()
+With Sneha Konnur (MS(Research), IIT Madras), Ravina Gelda (MediaTek, Taiwan)
 
 This project was done as part of the course on Introduction to Machine Learning offered by Dr. Balaraman Ravindran in the fall of 2015. 
 
