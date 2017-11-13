@@ -1,8 +1,22 @@
-## Welcome to GitHub Pages
+### Multiclass classification on an unknown data set 
 
-You can use the [editor on GitHub](https://github.com/SapanaChaudhary/Multi-Class-Classification/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+With Sneha Konnur, Ravina Gelda
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project was done as part of the course on Introduction to Machine Learning offered by Dr. Balaraman Ravindran in the fall of 2015. 
+
+##### Objective
+Training data corresponding to 100 classes was provided. The task was to perform multi-class classification resulting in the best mean F1-measure for the 100 classes. 
+
+##### Exploratory Data Analysis
+We did an initial exploration of the data to understand it better. We performed the following experiments in this regard:
+
+- Obtained the class counts
+    - The 68th class occurs a good 1000 times in the data. The other classes occur on an average
+      around 133 times. This is a clear case of data imbalance. 
+      
+- Sparsity
+    - The data at hand is sparse. The attributes have zeros in the range 7000-12000. Few of the
+      attributes clearly look like noise with data points in as few as 6 out of 14332 rows.
 
 ### Markdown
 
